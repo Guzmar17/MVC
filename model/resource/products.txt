@@ -1,0 +1,4 @@
+Id|Name|Price|Description|Category.
+1|Anti-age|1.2|treatment, product, face|Cosmetic
+2|Aspirin|3.4|treatment, product, headache|Health
+3|Acupuncture|4.5|treatment, service|Health
