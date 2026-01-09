@@ -1,0 +1,10 @@
+1;Anti-age cream;12.50;treatment, face;1
+2;Aspirin 500mg;3.45;headache, fever;2
+3;Facial Cleanser;8.99;daily use, face;1
+4;Band-Aids;2.10;first aid;2
+5;Shampoo Argan Oil;9.50;hair, daily use;1
+6;Ibuprofen 400mg;5.25;pain relief;2
+7;Body Lotion;15.00;hydration, skin;1
+8;Vitamin C Tablets;7.99;supplements, health;2
+9;Mascara Volume;18.75;makeup, eyes;1
+10;Thermometer Digital;11.50;fever check;2
