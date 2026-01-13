@@ -37,8 +37,8 @@ class Product{
             $this->price,
             $this->description,
             $this->category);
-    }
-}
+            
+    }    }
 
  
 ?>
