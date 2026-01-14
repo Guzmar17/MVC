@@ -1,7 +1,7 @@
 <?php
 // File
 require_once "model/persist/UserFileDAO.class.php";
-
+require_once "model/UserDbDAO.class.php";
 
 class UserModel {
 
@@ -13,19 +13,19 @@ class UserModel {
     }
 
     public function add($user):bool {
-        /*TODO*/
+        return $this->dataUser->add($user);
     }
 
     public function modify($user):bool {
-        /*TODO*/
+        return $this->dataUser->modify($user);
     }
 
     public function delete($username) {
-        /*TODO*/
+        return $this->dataUser->delete($username);
     }    
     
     public function searchByUser($user):bool {
-         /*TODO*/
+        return $this->dataUser->searchByUser($user);
     }
 
     public function searchByUsername($username) {
@@ -35,7 +35,7 @@ class UserModel {
     }
 
     public function listAll():array {
-        /*TODO*/
+        return $this->dataUser->listAll();
     }
     
 }
